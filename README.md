@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Objectives
+## Objectives
 
 This tutorial guides you through downloading, uploading, processing, and analyzing crime datasets from **Los Angeles (2010–Present)** and **Chicago (2001–Present)** using Hadoop's **HDFS** and **HiveQL**.
 
@@ -21,7 +21,7 @@ You'll:
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 - Access to a Hadoop cluster with HDFS and Hive installed
 - SSH client (e.g., Git Bash, PuTTY)
@@ -30,7 +30,7 @@ You'll:
 
 ---
 
-## 📥 Step 1: Download Datasets
+## Step 1: Download Datasets
 
 Download the datasets and place them in your local machine (e.g., `Downloads/`):
 
@@ -40,7 +40,7 @@ Download the datasets and place them in your local machine (e.g., `Downloads/`):
 
 ---
 
-## 🔼 Step 2: Upload to HDFS
+## Step 2: Upload to HDFS
 
 ### 2.1 Transfer Files to Cluster
 
